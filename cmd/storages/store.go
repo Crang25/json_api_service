@@ -3,7 +3,7 @@ package storages
 import (
 	"context"
 
-	"github.com/Crang25/json_api_service/internal/models"
+	"github.com/Crang25/json_api_service/cmd/models"
 )
 
 // Store ...
